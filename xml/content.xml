@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<content>
+    <services>
+        <card code="0">
+            <image>icon-maquina.png</image>
+            <cardTitle>Corte Tradicional</cardTitle>
+            <price>R$25,00</price>
+            <button>Saiba mais</button>
+        </card>
+        <card code="1"> 
+            <image>icon-lamina.png</image>
+            <cardTitle>Corte Navalhado</cardTitle>
+            <price>R$28,00</price>
+            <button>Saiba mais</button>
+        </card>
+        <card code="2"> 
+            <image>icon-barba.png</image>
+            <cardTitle>Barba</cardTitle>
+            <moreTitle>Sobrancelha</moreTitle>
+            <price>R$15,00</price>
+            <button>Saiba mais</button>
+        </card>
+    </services>
+</content>
