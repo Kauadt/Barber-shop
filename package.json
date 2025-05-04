@@ -1,0 +1,28 @@
+{
+  "name": "barber-shop",
+  "version": "1.0.0",
+  "description": "This project was created to study new concepts about HTML, CSS and Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauadt/Barber-shop.git"
+  },
+  "keywords": [],
+  "author": "Kauã Tavares",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Kauadt/Barber-shop/issues"
+  },
+  "homepage": "https://github.com/Kauadt/Barber-shop#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
